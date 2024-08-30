@@ -1,0 +1,13 @@
+function spinWord(string) {
+    const words = string.split(" ")
+    for(var i = 0; i< words.length; i++){
+        if(words[i].length > 4 ){
+            words[i] = words[i].split("").reverse().join("")
+        }
+    }
+    return words.join(" ")
+}
+
+const str = "Better Call Saul"
+const ans = spinWord(str)
+console.log(ans)
