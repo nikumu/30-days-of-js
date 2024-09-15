@@ -30,3 +30,6 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 
 [Reduce](https://github.com/nikumu/30-days-of-js/tree/master/dia-07)
 
+### Dia 08
+
+[Filter](https://github.com/nikumu/30-days-of-js/tree/master/dia-08)
