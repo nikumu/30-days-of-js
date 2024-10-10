@@ -7,3 +7,20 @@ Crie um programa que peça ao usuário para inserir um número e mostre a **sequ
 ```
 
 >É importante destacar que a sequência de Fibonacci é infinita
+
+### Teste 1:
+
+Entrada: 88
+
+Saída:
+```~~~javascript
+0, 1, 2, 3, 5, 8, 13, 21, 34, 55
+```
+### Teste 2:
+
+Entrada: 200
+
+Saída:
+```~~~javascript
+0, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144
+```
