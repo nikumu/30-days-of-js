@@ -10,5 +10,5 @@ while (sequence[sequence.length - 1] <= number) {
 console.log("Sequência de Fibonacci até", number + ":");
 
 for (let i = 0; i < sequence.length-1; i++) {
-    console.log(sequence[i]);
+    console.log(sequence[i] + ",");
 }
