@@ -47,3 +47,11 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 
 [Mensagem Formatada](https://github.com/nikumu/30-days-of-js/tree/master/dia-11)
 
+### Dia 12
+
+[Inverte Vetor](https://github.com/nikumu/30-days-of-js/tree/master/dia-12)
+
+### Dia 13
+
+[Palíndromo](https://github.com/nikumu/30-days-of-js/tree/master/dia-13)
+
