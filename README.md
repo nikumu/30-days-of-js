@@ -55,3 +55,6 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 
 [Palíndromo](https://github.com/nikumu/30-days-of-js/tree/master/dia-13)
 
+### Dia 14
+
+[Máximo Divisor Comum](https://github.com/nikumu/30-days-of-js/tree/master/dia-14)
