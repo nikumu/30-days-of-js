@@ -1,0 +1,6 @@
+function filterPar(num){
+    return num.filter(n => n%2 == 0);
+}
+
+console.log(filterPar([2, 5, 6, 9, 12]));
+console.log(filterPar([5, 6, 7, 8, 22]));
