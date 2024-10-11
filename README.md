@@ -124,5 +124,8 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 
 [Subarray](https://github.com/nikumu/30-days-of-js/tree/master/dia-29)
 
+### Dia 30
+
+[Extrair valores](https://github.com/nikumu/30-days-of-js/tree/master/dia-30)
 
 
