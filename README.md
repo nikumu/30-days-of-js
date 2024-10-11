@@ -108,3 +108,13 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 
 [Mínimo Múltiplo Comum](https://github.com/nikumu/30-days-of-js/tree/master/dia-25)
 
+### Dia 26
+
+[converte um objeto em uma string JSON](https://github.com/nikumu/30-days-of-js/tree/master/dia-26)
+
+### Dia 27
+
+[Exceção](https://github.com/nikumu/30-days-of-js/tree/master/dia-27)
+
+
+
