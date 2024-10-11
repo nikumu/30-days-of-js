@@ -94,3 +94,7 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 ### Dia 22
 
 [Fatorial](https://github.com/nikumu/30-days-of-js/tree/master/dia-22)
+
+### Dia 23
+
+[Espaços em branco](https://github.com/nikumu/30-days-of-js/tree/master/dia-23)
