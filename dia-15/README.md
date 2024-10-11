@@ -1,4 +1,4 @@
-Crie um programa que peça ao usuário para inserir um número e mostre a **sequência de Fibonacci** até o valor indicado, utilizando um loop de repetição.
+Crie um programa que peça ao usuário para inserir um número e mostre a `sequência de Fibonacci` até o valor indicado, utilizando um loop de repetição.
 
 >Na matemática, a sequência de Fibonacci é uma série de números inteiros que geralmente começa com 0 e 1, onde cada termo seguinte é a soma dos dois números anteriores.
 >Os números de Fibonacci são, portanto, os números que compõem a seguinte sequência:
@@ -10,7 +10,7 @@ Crie um programa que peça ao usuário para inserir um número e mostre a **sequ
 
 ### Teste 1:
 
-Entrada: 88
+Entrada: `88`
 
 Saída:
 ```~~~javascript
@@ -18,7 +18,7 @@ Saída:
 ```
 ### Teste 2:
 
-Entrada: 200
+Entrada: `200`
 
 Saída:
 ```~~~javascript
