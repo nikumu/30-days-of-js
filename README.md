@@ -70,3 +70,7 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 ### Dia 17
 
 [Encapsulamento](https://github.com/nikumu/30-days-of-js/tree/master/dia-17)
+
+### Dia 18
+
+[Filter números pares](https://github.com/nikumu/30-days-of-js/tree/master/dia-18)
