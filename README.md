@@ -74,3 +74,11 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 ### Dia 18
 
 [Filter números pares](https://github.com/nikumu/30-days-of-js/tree/master/dia-18)
+
+### Dia 19
+
+[Concat arrays](https://github.com/nikumu/30-days-of-js/tree/master/dia-19)
+
+### Dia 20
+
+[Validate CEP](https://github.com/nikumu/30-days-of-js/tree/master/dia-20)
