@@ -116,5 +116,13 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 
 [Exceção](https://github.com/nikumu/30-days-of-js/tree/master/dia-27)
 
+### Dia 28
+
+[Função assíncrona](https://github.com/nikumu/30-days-of-js/tree/master/dia-28)
+
+### Dia 29
+
+[Subarray](https://github.com/nikumu/30-days-of-js/tree/master/dia-29)
+
 
 
