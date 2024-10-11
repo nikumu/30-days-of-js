@@ -102,3 +102,9 @@ Este repositório contém exercícios em JavaScript que criei para praticar e co
 ### Dia 24
 
 [Soma](https://github.com/nikumu/30-days-of-js/tree/master/dia-24)
+
+
+### Dia 25
+
+[Mínimo Múltiplo Comum](https://github.com/nikumu/30-days-of-js/tree/master/dia-25)
+
