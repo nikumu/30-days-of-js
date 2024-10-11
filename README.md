@@ -1,5 +1,9 @@
+![Alt](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJrMTF4czZvM2FnZHBzdWVjYjBnNGRoeGRwaXhjbDdyaWlqZnB3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.webp)
+
 # 30 DAYS OF JAVASCRIPT
+
 Este repositório contém exercícios em JavaScript que criei para praticar e consolidar meus conhecimentos. Ele abrange uma variedade de tópicos, desde fundamentos até conceitos avançados, permitindo um aprendizado contínuo e desafiador.
+
 ## Lista de desafios 🛠️ 
 
 ### Dia 01
