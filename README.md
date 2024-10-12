@@ -1,4 +1,6 @@
-![Alt](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJrMTF4czZvM2FnZHBzdWVjYjBnNGRoeGRwaXhjbDdyaWlqZnB3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.webp)
+</a><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJrMTF4czZvM2FnZHBzdWVjYjBnNGRoeGRwaXhjbDdyaWlqZnB3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvFocn0wNMx0iv2rYz/giphy.webp" min-width="200px" max-width="200px" width="200px" align="center">  
+
+<br>
 
 # 30 DAYS OF JAVASCRIPT
 
